@@ -1,10 +1,10 @@
 [
-["-1","Wiki","http://en.wikipedia.org/wiki/Special:Search?search=TESTSEARCH&go=Go",true],
-["-1","Вики","http://ru.wikipedia.org/wiki/Special:Search?search=TESTSEARCH&go=Go",true],
+["-1","Wiki","https://en.wikipedia.org/wiki/Special:Search?search=TESTSEARCH&go=Go",true],
+["-1","Вики","https://ru.wikipedia.org/wiki/Special:Search?search=TESTSEARCH&go=Go",true],
 ["-1","RFC","https://tools.ietf.org/html/rfcTESTSEARCH",true],
 ["-1","En>Ru","https://translate.google.com/#en/ru/TESTSEARCH",true],
 ["-1","Ru>En","https://translate.google.com/#ru/en/TESTSEARCH",true],
-["-1","YTube","http://www.youtube.com/results?search_query=TESTSEARCH",true],
+["-1","YTube","https://www.youtube.com/results?search_query=TESTSEARCH",true],
 ["-1","FHD","http://xrutor.org/search/0/0/100/2/TESTSEARCH%201080p",true], 
 ["-1","Maps","http://maps.yandex.ru/?text=TESTSEARCH, Алматы",true]
 ]
