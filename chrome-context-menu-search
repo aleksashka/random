@@ -6,5 +6,6 @@
 ["-1","Ru>En","https://translate.google.com/#ru/en/TESTSEARCH",true],
 ["-1","YTube","https://www.youtube.com/results?search_query=TESTSEARCH",true],
 ["-1","FHD","http://xrutor.org/search/0/0/100/2/TESTSEARCH%201080p",true], 
+["-1","Imho","http://imhonet.ru/search/?search=TESTSEARCH",true],
 ["-1","Maps","http://maps.yandex.ru/?text=TESTSEARCH, Алматы",true]
 ]
