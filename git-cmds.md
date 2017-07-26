@@ -7,10 +7,10 @@ git config --global commit.verbose true
 ```
 
 ## Commit
-**`git commit --amend`** - modify last commit
+`git commit --amend` — modify last commit
 
 ## Logs
-**`git log --oneline --graph --all --decorate`**
+`git log --oneline --graph --all --decorate`
 
 ## Undo commit
-**`git reset HEAD^`** - undo last commit
+`git reset HEAD^` — undo last commit
