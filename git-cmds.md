@@ -12,5 +12,8 @@ git config --global commit.verbose true
 ## Logs
 `git log --oneline --graph --all --decorate`
 
+## Show
+`git show XXXXXXX:path/to/file` — show file content at specific commit, identified by hash (XXXXXXX)
+
 ## Undo commit
 `git reset HEAD^` — undo last commit
