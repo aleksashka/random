@@ -17,3 +17,7 @@ git config --global commit.verbose true
 
 ## Undo commit
 `git reset HEAD^` — undo last commit
+
+## Branches
+`git branch -d|--delete <branch-name>` — delete local branch
+`git push <remote_name> --delete <branch_name>` — delete remote branch
