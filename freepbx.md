@@ -13,8 +13,8 @@ fwconsole firewall start
 ```
 
 ## fail2ban commands
-`fail2ban-client status` — list jails
-`fail2ban-client status JAILNAMEHERE` — check specific jail
+`fail2ban-client status` — list jails\
+`fail2ban-client status JAILNAMEHERE` — check specific jail\
 `fail2ban-client set JAILNAMEHERE unbanip IPADDRESSHERE`
 
 ## Routing
