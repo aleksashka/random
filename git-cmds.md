@@ -21,3 +21,7 @@ git config --global commit.verbose true
 ## Branches
 `git branch -d|--delete <branch-name>` — delete local branch\
 `git push <remote_name> --delete <branch_name>` — delete remote branch
+
+## Use SSH
+`git config remote.origin.url     git@github.com:your_username/your_project.git` - use SSH\
+`git config remote.origin.pushurl git@github.com:your_username/your_project.git` - use SSH only for push
