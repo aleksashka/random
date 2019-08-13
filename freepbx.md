@@ -1,6 +1,13 @@
-## Make an IP Address trusted
+## Add an IP Address as trusted
 ```
 fwconsole firewall trust IPADDRESSHERE
+fwconsole firewall stop
+fwconsole firewall start
+```
+
+## Remove an IP Address from trusted
+```
+fwconsole firewall untrust IPADDRESSHERE
 fwconsole firewall stop
 fwconsole firewall start
 ```
