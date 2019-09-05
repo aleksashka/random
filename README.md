@@ -6,4 +6,5 @@ Just some random stuff
 ## [PuTTY registry files](putty.md)
 ## [ssh-agent](ssh-agent.md)
 ## [chrome-context-menu-search](chrome-context-menu-search)
+## [cisco-template](cisco-template.md)
 My search engines for [Chrome Extenstion](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga)
