@@ -6,6 +6,17 @@ git config --global core.editor vim
 git config --global commit.verbose true
 ```
 
+## GIT Aliases for Bash
+```
+alias gs='git status'
+alias gl='git log --oneline --graph -10'
+alias gla='git log --oneline --graph --all -10'
+alias gd='git diff'
+alias gdc='git diff --cached'
+alias ga='git add'
+alias gc='git commit'
+```
+
 ## Commit
 `git commit --amend` — modify last commit
 
