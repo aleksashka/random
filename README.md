@@ -7,4 +7,5 @@ Just some random stuff
 ## [ssh-agent](ssh-agent.md)
 ## [chrome-context-menu-search](chrome-context-menu-search)
 ## [cisco-template](cisco-template.md)
+## [vimrc](vimrc.md)
 My search engines for [Chrome Extenstion](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga)
