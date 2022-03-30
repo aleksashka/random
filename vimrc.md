@@ -7,4 +7,5 @@ set shiftwidth=4
 set softtabstop=4
 set relativenumber
 set numberwidth=2
+set scrolloff=5
 ```
