@@ -8,4 +8,5 @@ set softtabstop=4
 set relativenumber
 set numberwidth=2
 set scrolloff=5
+set showcmd  " Show (partial) command in the last line of the screen.
 ```
