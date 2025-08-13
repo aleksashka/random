@@ -6,15 +6,16 @@ git config --global core.editor vim
 git config --global commit.verbose true
 ```
 
-## GIT Aliases for Bash
+## GIT Aliases
 ```
-alias gs='git status'
-alias gl='git log --oneline --graph -10'
-alias gla='git log --oneline --graph --all -10'
-alias gd='git diff'
-alias gdc='git diff --cached'
-alias ga='git add'
-alias gc='git commit'
+git config --global alias.s 'git status'
+git config --global alias.l 'log --oneline --graph --decorate --all -10'
+git config --global alias.la 'log --oneline --graph --decorate --all -10'
+git config --global alias.d 'diff'
+git config --global alias.dc 'diff --cached'
+git config --global alias.dw 'diff --color-words="[^[:space:]]|([[:alnum:]]|UTF_8_GUARD)+"'
+git config --global alias.a 'add -p'
+git config --global alias.c 'commit'
 ```
 
 ## Commit
