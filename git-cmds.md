@@ -18,6 +18,7 @@ git config --global alias.dcw 'diff --cached --color-words="[^[:space:]]|([[:aln
 git config --global alias.a 'add -p'
 git config --global alias.c 'commit'
 ```
+`git d` source: https://www.youtube.com/watch?v=gDkvLxbA5ZE
 
 ## Commit
 `git commit --amend` — modify last commit
