@@ -1,6 +1,7 @@
 # random
 Just some random stuff
 
+## [VS Code configuration](vs-code.md)
 ## [GIT commands](git-cmds.md)
 ## [FreePBX commands](freepbx.md)
 ## [PuTTY registry files](putty.md)
