@@ -15,6 +15,7 @@ git config --global alias.d 'diff'
 git config --global alias.dw 'diff --color-words="[^[:space:]]|([[:alnum:]]|UTF_8_GUARD)+"'
 git config --global alias.dc 'diff --cached'
 git config --global alias.dcw 'diff --cached --color-words="[^[:space:]]|([[:alnum:]]|UTF_8_GUARD)+"'
+git config --global alias.dwc 'diff --cached --color-words="[^[:space:]]|([[:alnum:]]|UTF_8_GUARD)+"'
 git config --global alias.a 'add -p'
 git config --global alias.c 'commit'
 ```
