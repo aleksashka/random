@@ -10,7 +10,7 @@ git config --global commit.verbose true
 ```
 git config --global alias.s 'status'
 git config --global alias.l 'log --oneline --graph --decorate --all -10'
-git config --global alias.la 'log --oneline --graph --decorate --all -10'
+git config --global alias.ld "log --graph --decorate --all -10 --color --pretty=format:'%C(auto)%h %C(green)[%ad]%C(reset)%C(auto)%d%C(reset) %s' --date=format:'%Y-%m-%d %H:%M'"
 git config --global alias.d 'diff'
 git config --global alias.dw 'diff --color-words="[^[:space:]]|([[:alnum:]]|UTF_8_GUARD)+"'
 git config --global alias.dc 'diff --cached'
