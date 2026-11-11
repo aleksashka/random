@@ -4,6 +4,7 @@ git config --global user.name "Alexandr Alakin"
 git config --global user.email alakinalexandr@gmail.com
 git config --global core.editor vim
 git config --global commit.verbose true
+# git config --global credential.helper store
 ```
 
 ## GIT Aliases
