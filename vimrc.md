@@ -1,4 +1,4 @@
-```
+```vim
 set background=dark
 set autoindent
 set expandtab
